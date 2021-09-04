@@ -4,6 +4,8 @@ card game point calculator
 
 hukum sar is a card game idk what do we call it in english xD
 
+made with the help of python and pytinker
+
 hukumsr.py helps is a window which helps to calculate score , in this game each player first inputs his/her expected score and then enters real score acoordingly points are given it also shows who is the winner.
 
 screenshots:
